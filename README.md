@@ -1,10 +1,10 @@
-# Data-Free Knowledge Distillation for Heterogeneous Federated Learning
+# Heterogeneous Federated Learning via Personalized Generative Networks
 
 Credits
 We would like to give credit to the following repositories for their code and resources that we used in our project:
  [Data-Free Knowledge Distillation for Heterogeneous Federated](https://arxiv.org/pdf/2105.10056.pdf).
 
-We used their repository and added our algorithm : FedGenP
+We used their repository and added our algorithm: FedGenP
  
 ## Install Requirements:
 ```pip3 install -r requirements.txt```
